@@ -1,0 +1,3 @@
+Se recomienda revisar el siguiente video donde se muestra como generar el Token para conectar Google Colab al DataSet de Kaggle que se uso para el presente trabajo: Intel Image Classification
+Video recomendado: 
+https://www.youtube.com/watch?v=57N1g8k2Hwc
